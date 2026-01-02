@@ -7,7 +7,7 @@ I am a passionate developer focusing on building scalable backend systems and RE
 
 ### 🛠 Tech Stack
 **Backend:**
-- ☕ **Languages:** Java
+- ☕ **Languages:** Java, JavaScript (Node.js)
 - 🍃 **Frameworks:** Spring Boot, Spring Security, Spring Data JPA
 - 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB
 
